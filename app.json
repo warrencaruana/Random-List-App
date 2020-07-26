@@ -1,0 +1,12 @@
+{
+  "name": "RandomList",
+  "displayName": "RandomList",
+  "expo": {
+    "name": "RandomList",
+    "slug": "RandomList",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
